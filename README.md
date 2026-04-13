@@ -63,4 +63,9 @@
 </a>
 </p>
 
+<a href="https://www.hackerrank.com/profile/samartharnav123">
+  <img src="https://img.shields.io/badge/HackerRank-Arnav%20Singh-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+</a>
+</p> 
+
 ---
