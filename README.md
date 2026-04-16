@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arnav Singh</h1>
 
-<h3 align="center">AIML Student | ML Engineer | Exploring Open Source</h3>
+<h3 align="center">AIML Student | Aspiring ML Engineer | Exploring Open Source</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arnav-Singh-5080&label=Profile%20views&color=0e75b6&style=flat" />
