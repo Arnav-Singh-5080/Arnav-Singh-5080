@@ -16,9 +16,9 @@
 ---
 
 ## Projects
-- **Titanic Survival Simulator** — Predicts passenger survival using ML with real-time input (Streamlit)  
-- **Loan Sahayak** — Machine learning–based credit risk evaluation system for automated loan approval decisions (Streamlit)  
-- **IPL Match Intelligence Engine** — ML-based system for real-time win probability estimation using dynamic match features (Streamlit)   
+- **AI Credit Intelligence Engine** — AI-powered credit risk assessment platform for intelligent loan eligibility prediction and financial decision-making 
+- **Titanic Survival Simulator** — Interactive machine learning application for survival prediction with real-time user input and interpretable insights
+- **IPL Match Intelligence Engine** — Advanced ML-based system for real-time match outcome prediction using dynamic game-state features and probabilistic modeling
 
 ---
 
