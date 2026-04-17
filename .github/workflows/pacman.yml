@@ -13,12 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-
       - name: generate pacman graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: Platane/snk@v3
         with:
           github_user_name: Arnav-Singh-5080
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: push pacman graph
         uses: crazy-max/ghaction-github-pages@v3
