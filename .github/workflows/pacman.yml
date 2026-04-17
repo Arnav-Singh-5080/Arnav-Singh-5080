@@ -18,7 +18,7 @@ jobs:
       - name: generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Harsh-mahadik999
+          github_user_name: Arnav-Singh-5080
 
       - name: push pacman graph
         uses: crazy-max/ghaction-github-pages@v3
