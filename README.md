@@ -69,3 +69,11 @@
 </p>
 
 ---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/github-contribution-grid-snake-dark.svg" alt="Pacman Contribution Graph" />
+</p>
+
+---
