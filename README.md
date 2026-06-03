@@ -24,7 +24,7 @@ AIML Undergraduate at BIT Mesra · Building Production-Grade ML Systems · Open 
 <tr>
 <td width="65%">
 
-- 2nd Year B.Tech (AIML), **BIT Mesra** (2024–2028)  
+- 3rd Year B.Tech (AIML), **BIT Mesra** (2024–2028)  
 - Developing end-to-end machine learning pipelines and predictive systems  
 - Focused on deployment, feature engineering, and real-world ML applications  
 - Active contributor in Open Source programs and collaborative projects  
